@@ -1,4 +1,6 @@
--- YOUR SOLUTION HERE
+-- TASK:
+--Your CEO asks you to help her create her end-of-year presentation. Provide her with the numbers for the year 1997 broken down by months.
+
 SELECT
     EXTRACT(YEAR FROM orders.order_date) AS year,
     EXTRACT(MONTH FROM orders.order_date) AS month,
