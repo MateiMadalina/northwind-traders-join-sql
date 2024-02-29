@@ -1,1 +1,1 @@
-# northwind-traders-join
+# northwind-traders-join-sql queries
